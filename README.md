@@ -10,7 +10,7 @@ I personally mainly worked on the first item.
 Global warming.pdf presents the final report
 Temperature rise.ipynb presents my study, visualizations and predictions about this topic 
 
-####################################################################################################################################
+########################################################################################
 
 Le réchauffement climatique vu par un Data Analyst est un projet de formation réalisé en 3 semaines en équipe de 4. Il consiste à étudier des jeux de données afin d'apporter de l'information pour informer ou confirmer sur 4 arguments :
 - Le réchauffement climatique n'existe pas
